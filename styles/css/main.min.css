@@ -10186,8 +10186,8 @@ section[role=intro] .profile-brief {
 
 section[role=intro] .profile-pic-wrapper {
     border-radius: 100%;
-    width: 120px;
-    height: 120px;
+    width: 300px;
+    height: 300px;
     overflow: hidden;
     display: inline-block;
     border: 3px solid #fff;
